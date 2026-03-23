@@ -2,7 +2,6 @@
 
 Repositorio publico de portafolio para mostrar el alcance del proyecto sin publicar el codigo fuente operativo completo.
 
-![Vista demostrativa del proyecto](assets/showcase-demo.svg)
 
 Ilustracion de showcase basada en la arquitectura y modulos reales del sistema.
 

@@ -2,8 +2,9 @@
 
 Repositorio publico de portafolio para mostrar el alcance del proyecto sin publicar el codigo fuente operativo completo.
 
+![Captura real del proyecto](assets/showcase-real.png)
 
-Ilustracion de showcase basada en la arquitectura y modulos reales del sistema.
+Captura real de la interfaz administrativa del sistema, mostrada sin datos operativos.
 
 ## Resumen
 

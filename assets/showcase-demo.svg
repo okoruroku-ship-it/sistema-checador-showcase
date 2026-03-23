@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema Checador Showcase</title>
+  <desc id="desc">Ilustracion demostrativa de una plataforma de asistencia multi-sede con dashboard, bot de WhatsApp y reportes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081521"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="120" r="180" fill="#5eead4" opacity="0.1"/>
+  <text x="110" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Sistema Checador Multi-Sede</text>
+  <text x="110" y="165" fill="#b9f4ee" font-family="Segoe UI, Arial, sans-serif" font-size="24">Asistencia, evidencias, bot de WhatsApp y reportes administrativos</text>
+  <rect x="100" y="210" width="1400" height="610" rx="36" fill="#f4fffe" opacity="0.97"/>
+  <rect x="130" y="245" width="245" height="540" rx="28" fill="#0d2230"/>
+  <text x="165" y="302" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Modulos</text>
+  <text x="165" y="360" fill="#9fe9dd" font-family="Segoe UI, Arial, sans-serif" font-size="24">Dashboard</text>
+  <text x="165" y="408" fill="#9fe9dd" font-family="Segoe UI, Arial, sans-serif" font-size="24">Trabajadores</text>
+  <text x="165" y="456" fill="#9fe9dd" font-family="Segoe UI, Arial, sans-serif" font-size="24">Dispositivos</text>
+  <text x="165" y="504" fill="#9fe9dd" font-family="Segoe UI, Arial, sans-serif" font-size="24">Evidencias</text>
+  <text x="165" y="552" fill="#9fe9dd" font-family="Segoe UI, Arial, sans-serif" font-size="24">Reportes</text>
+  <rect x="160" y="612" width="185" height="110" rx="24" fill="#133347"/>
+  <text x="195" y="660" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Bot online</text>
+  <circle cx="198" cy="695" r="10" fill="#22c55e"/>
+  <text x="220" y="701" fill="#9fe9dd" font-family="Segoe UI, Arial, sans-serif" font-size="20">WhatsApp listo</text>
+  <rect x="415" y="250" width="245" height="120" rx="26" fill="#dcfce7"/>
+  <text x="450" y="300" fill="#166534" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Sedes</text>
+  <text x="450" y="345" fill="#16a34a" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">12</text>
+  <rect x="690" y="250" width="245" height="120" rx="26" fill="#dbeafe"/>
+  <text x="725" y="300" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Empleados</text>
+  <text x="725" y="345" fill="#2563eb" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">248</text>
+  <rect x="965" y="250" width="245" height="120" rx="26" fill="#fef3c7"/>
+  <text x="1000" y="300" fill="#b45309" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Registros hoy</text>
+  <text x="1000" y="345" fill="#d97706" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">1,426</text>
+  <rect x="1240" y="250" width="225" height="120" rx="26" fill="#ede9fe"/>
+  <text x="1275" y="300" fill="#6d28d9" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Reportes</text>
+  <text x="1275" y="345" fill="#8b5cf6" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">PDF/XLS</text>
+  <rect x="415" y="400" width="610" height="360" rx="30" fill="#ffffff"/>
+  <text x="450" y="448" fill="#17324a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Monitoreo de asistencia</text>
+  <rect x="450" y="480" width="540" height="58" rx="18" fill="#effaf8"/>
+  <text x="475" y="517" fill="#24506a" font-family="Segoe UI, Arial, sans-serif" font-size="23">Sucursal Centro</text>
+  <text x="725" y="517" fill="#24506a" font-family="Segoe UI, Arial, sans-serif" font-size="23">07:58 Entrada</text>
+  <text x="900" y="517" fill="#16a34a" font-family="Segoe UI, Arial, sans-serif" font-size="22">Validado</text>
+  <rect x="450" y="553" width="540" height="58" rx="18" fill="#effaf8"/>
+  <text x="475" y="590" fill="#24506a" font-family="Segoe UI, Arial, sans-serif" font-size="23">Sucursal Norte</text>
+  <text x="725" y="590" fill="#24506a" font-family="Segoe UI, Arial, sans-serif" font-size="23">08:03 Entrada</text>
+  <text x="900" y="590" fill="#0f766e" font-family="Segoe UI, Arial, sans-serif" font-size="22">Con evidencia</text>
+  <rect x="450" y="626" width="540" height="96" rx="18" fill="#0d2230"/>
+  <text x="480" y="675" fill="#ffffff" font-family="Consolas, monospace" font-size="22">POST /new-device</text>
+  <text x="480" y="708" fill="#81e6d9" font-family="Segoe UI, Arial, sans-serif" font-size="21">Flujo de vinculacion de dispositivo y consulta de estado</text>
+  <rect x="1055" y="400" width="410" height="170" rx="30" fill="#dff7f3"/>
+  <text x="1090" y="448" fill="#155e75" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Bot de WhatsApp</text>
+  <text x="1090" y="493" fill="#1d728f" font-family="Segoe UI, Arial, sans-serif" font-size="22">Alta de dispositivos, estado y desvinculacion</text>
+  <rect x="1090" y="515" width="220" height="16" rx="8" fill="#a7f3d0"/>
+  <rect x="1090" y="515" width="188" height="16" rx="8" fill="#22c55e"/>
+  <text x="1328" y="528" fill="#15803d" font-family="Segoe UI, Arial, sans-serif" font-size="18">85%</text>
+  <rect x="1055" y="590" width="410" height="170" rx="30" fill="#eef2ff"/>
+  <text x="1090" y="638" fill="#3730a3" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Evidencias y exportes</text>
+  <text x="1090" y="684" fill="#4f46e5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Fotos, mapa, nota de voz, PDF, Word y Excel</text>
+  <rect x="1090" y="705" width="112" height="22" rx="11" fill="#c7d2fe"/>
+  <rect x="1218" y="705" width="112" height="22" rx="11" fill="#c7d2fe"/>
+  <rect x="1346" y="705" width="84" height="22" rx="11" fill="#c7d2fe"/>
+</svg>

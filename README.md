@@ -2,6 +2,10 @@
 
 Repositorio publico de portafolio para mostrar el alcance del proyecto sin publicar el codigo fuente operativo completo.
 
+![Vista demostrativa del proyecto](assets/showcase-demo.svg)
+
+Ilustracion de showcase basada en la arquitectura y modulos reales del sistema.
+
 ## Resumen
 
 Plataforma de asistencia multi-sede con backend en Flask, integracion con WhatsApp Web y utilidades de escritorio para la operacion diaria. El sistema concentra altas de personal, control por sede y departamento, evidencias de registro y exportacion de reportes administrativos.
